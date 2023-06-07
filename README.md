@@ -1,7 +1,7 @@
 
 ## Hi, I'm Zubia
 
-I am a Vancouver-based Machine Learning Scientist at Lululemon Athletica 
+I am a Vancouver-based Senior Machine Learning Scientist at Lululemon Athletica 
 
 - 🤖 Deliver organisation-wide AI solutions to fashion designers, email & web marketing, stores innovation, UI/UX, inventory planners, and more
 
@@ -16,4 +16,5 @@ I am a Vancouver-based Machine Learning Scientist at Lululemon Athletica
 
 - Check out my [website](https://zubiamansoor.github.io)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/zubiamansoor/)
+- Follow me on [Twitter](https://twitter.com/zubia__mansoor)
 
